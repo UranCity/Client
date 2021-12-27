@@ -1,0 +1,21 @@
+
+#Voice settings
+[client]
+	#The bitrate your music packets are send to the server if your stream your music player. If packet loss occurs try to lower the bitrate.
+	#Range: 8000 ~ 128000
+	bitrate = 96000
+
+	[client.speaker]
+		#The volume of the speaker in a linear range
+		#Range: 0 ~ 150
+		volume = 100
+		#Which speaker should be used. If empty or speaker not found the default one will be used. If no speaker is found the mod cannot play voice data.
+		speaker = "Haut-parleurs (Realtek(R) Audio)"
+
+	[client.microphone]
+		#The volume of the microphone in a linear range
+		#Range: 0 ~ 150
+		volume = 100
+		#Which microphone should be used. If empty or microphone not found the default one will be used. If no microphone is found the mod cannot record voice data.
+		microphone = "Microphone (Realtek(R) Audio)"
+

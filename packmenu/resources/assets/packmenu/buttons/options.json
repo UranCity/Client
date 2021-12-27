@@ -1,0 +1,9 @@
+{
+	"x": -100,
+	"y": 60,
+	"width": 65,
+	"height": 20,
+	"langKey": "Options",
+	"action": "OPEN_GUI",
+	"data": "OPTIONS"
+}
