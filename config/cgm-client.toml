@@ -24,6 +24,8 @@
 		crosshair = "minecraft:default"
 		#If true, uses the old animation poses for weapons. This is only for nostalgic reasons and not recommended to switch back.
 		oldAnimations = false
+		#If enabled, renders a cooldown indicator to make it easier to learn when you fire again.
+		cooldownIndicator = true
 
 	#Properties relating to particles
 	[client.particle]
@@ -38,4 +40,9 @@
 		bulletHoleFadeThreshold = 0.98
 		#If true, blood will will spawn from entities that are hit from a projectile
 		enableBlood = false
+
+	#Experimental options
+	[client.experimental]
+		#Makes the camera and weapons move more naturally in first person view
+		immersiveCamera = false
 

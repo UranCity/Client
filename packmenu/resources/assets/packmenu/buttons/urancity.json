@@ -1,0 +1,14 @@
+{
+	"x": -100,
+	"y": 24,
+	"width": 200,
+	"height": 20,
+	"u": 0,
+	"v": 0,
+	"hoverU": 0,
+	"hoverV": 20,
+	"langKey": "Entrer dans UranCity",
+	"texture": "packmenu:textures/gui/button.png",
+	"action": "CONNECT_TO_SERVER",
+	"data": "localhost"
+}

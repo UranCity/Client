@@ -3,7 +3,12 @@
 	"y": 60,
 	"width": 65,
 	"height": 20,
+	"u": 0,
+	"v": 0,
+	"hoverU": 0,
+	"hoverV": 20,
 	"langKey": "Options",
+	"texture": "packmenu:textures/gui/button.png",
 	"action": "OPEN_GUI",
 	"data": "OPTIONS"
 }

@@ -9,7 +9,7 @@
 	"hoverV": 20,
 	"texWidth": 32,
 	"texHeight": 64,
-	"texture": "textures/gui/accessibility.png",
+	"texture": "packmenu:textures/gui/accessibility.png",
 	"action": "OPEN_GUI",
 	"data": "ACCESSIBILITY"
 }

@@ -1,9 +1,0 @@
-{
-	"x": -100,
-	"y": 24,
-	"width": 200,
-	"height": 20,
-	"langKey": "Entrer dans UranCity",
-	"action": "CONNECT_TO_SERVER",
-	"data": "mc.urancity.ml"
-}
