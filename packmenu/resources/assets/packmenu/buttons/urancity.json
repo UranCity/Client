@@ -10,5 +10,5 @@
 	"langKey": "Entrer dans UranCity",
 	"texture": "packmenu:textures/gui/button.png",
 	"action": "CONNECT_TO_SERVER",
-	"data": "localhost"
+	"data": "mc.urancity.ml"
 }
