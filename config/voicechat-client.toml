@@ -26,10 +26,10 @@ audio_packet_threshold = 3
 voice_deactivation_delay = 25
 #The microphone used by the voice chat
 #Empty for default device
-microphone = "Microphone (Realtek(R) Audio)"
+microphone = ""
 #The speaker used by the voice chat
 #Empty for default device
-speaker = "Haut-parleurs (Realtek(R) Audio)"
+speaker = ""
 #If the microphone is muted (only when using voice activation)
 muted = true
 #If the voice chat is disabled (sound and microphone off)

@@ -13,7 +13,7 @@
   "securitycraft": {
     "showowner": true,
     "showmodules": true,
-    "showpasswords": true,
+    "showpasswords": false,
     "showcustomname": true
   },
   "waila": {
